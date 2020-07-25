@@ -19,7 +19,7 @@ function App() {
           <header className="white-text-container section-container">
             <div className="text-center">
               <h1>I am Manasi Khandekar</h1>
-              <p>Web designer</p>
+              <p>Web designer | Student</p>
               <p>
                 <a className="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/manasi-khandekar-627772187" title>
                   <i className="fa fa-linkedin" />
