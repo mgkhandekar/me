@@ -24,7 +24,7 @@ function App() {
                 <a className="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/manasi-khandekar-627772187" title>
                   <i className="fa fa-linkedin" />
                 </a>
-                <a className="fa-icon fa-icon-2x" href="https://vimeo.com/" title>
+                <a className="fa-icon fa-icon-2x" href="https://github.com/mgkhandekar" title>
                   <i className="fa fa-github" />
                 </a>
                 <a className="fa-icon fa-icon-2x" href="https://www.instagram.com/libe_writer/" title>
@@ -60,7 +60,7 @@ function App() {
                   <a className="fa-icon fa-icon-2x" href="https://www.linkedin.com/in/manasi-khandekar-627772187" title>
                   <i className="fa fa-linkedin" />
                 </a>
-                <a className="fa-icon fa-icon-2x" href="https://vimeo.com/" title>
+                <a className="fa-icon fa-icon-2x" href="https://github.com/mgkhandekar" title>
                   <i className="fa fa-github" />
                 </a>
                 <a className="fa-icon fa-icon-2x" href="https://www.instagram.com/libe_writer/" title>
